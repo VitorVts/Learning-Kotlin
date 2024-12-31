@@ -1,22 +1,43 @@
-# Learning-Kotlin
-Repositório para acompanhar meu progresso no aprendizado de Kotlin.
+# Learning Kotlin 🚀
 
-# Kotlin Study Roadmap
+![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png)
 
-Este repositório acompanha meu progresso no aprendizado de Kotlin. Ele inclui exemplos, exercícios e projetos práticos.
+Repositório para acompanhar meu progresso no aprendizado de **Kotlin**. Aqui você encontrará exemplos, exercícios, projetos práticos e recursos úteis para se aprofundar na linguagem.
 
-## Roadmap de Estudos
-- [ ] Variáveis e tipos básicos
-- [ ] Controle de fluxo
-- [ ] Funções
-- [ ] Classes e objetos
-- [ ] Herança e interfaces
-- [ ] Coroutines
+---
 
-## Projetos
-- [ ] Calculadora básica
-- [ ] Aplicativo de previsão do tempo
+## 🌟 Kotlin Study Roadmap
 
-## Recursos
-- [Documentação Oficial do Kotlin](https://kotlinlang.org/docs/home.html)
-- [Kotlin Playground](https://play.kotlinlang.org/)
+Este repositório acompanha meu progresso no aprendizado de Kotlin. Ele inclui:
+- ✅ **Exemplos práticos** para consolidar conceitos.
+- 🔥 **Desafios e exercícios** para fixação.
+- 📂 **Pequenos projetos** para aplicar na prática.
+
+### 📅 Planejamento de Estudos
+- [ ] ✏️ **Variáveis e tipos básicos**
+- [ ] 🔁 **Controle de fluxo**
+- [ ] 🔧 **Funções**
+- [ ] 🏛️ **Classes e objetos**
+- [ ] 🧬 **Herança e interfaces**
+- [ ] ⚡ **Coroutines**
+
+---
+
+## 🛠️ Projetos
+
+- [ ] 🖩 **Calculadora básica**  
+- [ ] 🌤️ **Aplicativo de previsão do tempo**
+
+---
+
+## 📚 Recursos
+
+🔗 **Documentação Oficial do Kotlin:**  
+[https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html)
+
+🔗 **Kotlin Playground (Testar Código Online):**  
+[https://play.kotlinlang.org/](https://play.kotlinlang.org/)
+
+---
+
+📢 **Dica:** Compartilhe seu progresso com outros estudantes! Aprender em grupo pode ser muito mais divertido! 😊
