@@ -14,7 +14,7 @@ Este repositório acompanha meu progresso no aprendizado de Kotlin. Ele inclui:
 - 📂 **Pequenos projetos** para aplicar na prática.
 
 ### 📅 Planejamento de Estudos
-- [ ] ✏️ **Variáveis e tipos básicos**
+- [X] ✏️ **Variáveis e tipos básicos**
 - [ ] 🔁 **Controle de fluxo**
 - [ ] 🔧 **Funções**
 - [ ] 🏛️ **Classes e objetos**
