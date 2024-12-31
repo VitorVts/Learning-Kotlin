@@ -1,6 +1,6 @@
 # Learning Kotlin 🚀
 
-![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png)
+![Kotlin Logo](./assets/kotlin-logo.png)
 
 Repositório para acompanhar meu progresso no aprendizado de **Kotlin**. Aqui você encontrará exemplos, exercícios, projetos práticos e recursos úteis para se aprofundar na linguagem.
 
